@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2680E815-56A4-486B-8729-7DF151A0CD88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Services/UserService.cs">
+    <Files>
+      <File FileName="TodoApi/Services/UserService.cs" Line="20" Column="89" />
+      <File FileName="TodoApi/appsettings.json" Line="3" Column="22" />
+      <File FileName="TodoApi/Program.cs" Line="24" Column="6" />
+      <File FileName="TodoApi/Settings/DatabaseSettings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True">
+            <Node name="TodoApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="UserService.cs" selected="True" />
+              </Node>
+              <Node name="Settings" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
